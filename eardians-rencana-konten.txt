@@ -1,0 +1,7 @@
+Rencana Konten
+- video javascript
+  * ES6
+  * Framework Javascript
+- PHP framework
+- interview
+- vlog
