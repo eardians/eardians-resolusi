@@ -2,7 +2,9 @@ Rencana Konten
 - video javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React
 - PHP framework
+  ^ Laravel
 - interview
 - vlog
